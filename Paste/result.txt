@@ -1,0 +1,1 @@
+This is a result: Hello, this is a test, bye!
